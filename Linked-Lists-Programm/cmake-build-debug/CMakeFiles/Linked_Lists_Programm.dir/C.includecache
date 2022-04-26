@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Francisco/HTL/2DHIF/PROG/C/GitHub2/C-Tools/Sacilotto-Mendez-LinkedLists-2022/Linked-Lists-Programm/main.c
+stdio.h
+-
+

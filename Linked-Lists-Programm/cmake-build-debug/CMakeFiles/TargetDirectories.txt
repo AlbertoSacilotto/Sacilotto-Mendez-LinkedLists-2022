@@ -1,0 +1,3 @@
+C:/Francisco/HTL/2DHIF/PROG/C/GitHub2/C-Tools/Sacilotto-Mendez-LinkedLists-2022/Linked-Lists-Programm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Francisco/HTL/2DHIF/PROG/C/GitHub2/C-Tools/Sacilotto-Mendez-LinkedLists-2022/Linked-Lists-Programm/cmake-build-debug/CMakeFiles/Linked_Lists_Programm.dir
+C:/Francisco/HTL/2DHIF/PROG/C/GitHub2/C-Tools/Sacilotto-Mendez-LinkedLists-2022/Linked-Lists-Programm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
